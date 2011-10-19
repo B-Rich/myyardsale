@@ -55,3 +55,13 @@ Oderstr. 10247 F'hain.
 * Höhe: ca. 45 cm
 * Je: 4,- €
 * Zusammen: 6,- €
+
+***
+
+#### Pinguin Klobrille ####
+
+![klobrille](images/klobrille.jpg)
+
+* Formschöne Klobrille mit Pinguinen
+* VB: 15,- €
+
