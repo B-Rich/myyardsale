@@ -120,3 +120,15 @@ Oderstr. 10247 F'hain.
 * Einer ist etwas größer als der andere
 * Kleiner: 1,- €
 * Großer: 2,€
+
+***
+
+#### Kleine Deckenleuchte ####
+
+![kleine_deckenleuchte](images/kleine_deckenleuchte.jpg)
+
+* Kleine Deckenleuchte von IKEA
+* Mit drei Birnen inklusive
+* 2 Stück verfügbar
+* VB: 5,- € Stück
+
