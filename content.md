@@ -12,4 +12,5 @@ an [yardsale@haenel.co](mailto:yardsale@haenel.co).
 
 * Bezug intakt
 * Stabiles Gestell
+* Hinreißend schöne Blumenmuster
 * VB: 10,- €
