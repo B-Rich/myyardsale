@@ -185,3 +185,14 @@ Oderstr. 10247 F'hain.
 * Hersteller: Beko
 * ...hat leider einen Transportschaden, zwei Dellen in der Tür :-(
 * VB: 40,- €
+
+***
+
+#### Waschmaschine ####
+
+![waschmaschine](images/waschmaschine.jpg)
+
+* Hersteller: Bloomberg
+* Ca. zwei Jahre alt
+* Guter Zustand
+* VB: 100,- €
