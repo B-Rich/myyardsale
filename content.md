@@ -175,11 +175,13 @@ Oderstr. 10247 F'hain.
 * Höhe: 160 cm, Breite: 68 cm, Tiefe: 33 cm
 * VB: 25,- €
 
+***
+
 #### Kühlschrank ####
 
 ![kuehlschrank_zu](images/kuehlschrank_zu.jpg)
 ![kuehlschrank_offen](images/kuehlschrank_offen.jpg)
 
 * Hersteller: Beko
-* hat leider einen Transportschaden, zwei Dellen in der Tür :-(
+* ...hat leider einen Transportschaden, zwei Dellen in der Tür :-(
 * VB: 40,- €
