@@ -76,3 +76,14 @@ Oderstr. 10247 F'hain.
 * Ideal zur Mülltrennung
 * Je: 3,- €
 * Zusammen: 5,- €
+
+***
+
+#### Kaffeemaschine ####
+
+![kaffeemaschine](images/kaffeemaschine.jpg)
+
+* Hersteller: Petra
+* Fassungsvermögen ca. 10 Tassen
+* Mit eingebautem Filter
+* VB: 10,- €
