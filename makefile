@@ -1,21 +1,20 @@
-index.html : content.html header.html footer.html
+all : index.html sold.html
+
+index.html : index.md header.html footer.html
 	cat header.html > index.html
-	cat content.html >> index.html
+	markdown index.md >> index.html
 	cat footer.html >> index.html
 	sed -i s/YYYYYY/"`date`"/ index.html
 	sed -i s/XXXXXX/`git rev-parse HEAD`/ index.html
 
-content.html : content.md
-	markdown content.md > content.html
-
-sold.html : sold.md
+sold.html : sold.md header.html footer.html
 	cat header.html > sold.html
 	markdown sold.md >> sold.html
 	cat footer.html >> sold.html
 
 clean:
-	-rm index.html content.html
+	-rm index.html sold.html
 
-upload: content.html index.html sold.html
+upload: index.html sold.html
 	rsync -vrt index.html sold.html images kudu:websites/haenel.co/yardsale/
 	ssh kudu 'chmod a+rX -vR websites/haenel.co/yardsale/'
