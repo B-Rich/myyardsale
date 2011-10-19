@@ -230,4 +230,13 @@ Oderstr. 10247 F'hain.
 * Höhe: 180 cm, Breite: 80 cm, Tiefe: 50 cm
 * VB: 35,- €
 
+***
+
+#### Helles Schränkchen ####
+
+![helles_schraenkchen](images/helles_schraenkchen.jpg)
+
+* Mit einer Schublade und Rollen
+* Höhe: 72 cm, Breite 37 cm ,Tiefe: 50 cm
+* VB: 20,- €
 
