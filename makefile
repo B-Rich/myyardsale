@@ -12,5 +12,5 @@ clean:
 	-rm index.html content.html
 
 upload:
-	scp -r index.html images kudu:websites/haenel.co/yardsale/
+	rsync -vrt index.html images kudu:websites/haenel.co/yardsale/
 	ssh kudu 'chmod a+rX -vR websites/haenel.co/yardsale/'
