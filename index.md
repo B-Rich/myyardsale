@@ -218,3 +218,16 @@ Oderstr. 10247 F'hain.
 * Mit drei Schubladen
 * Höhe: 100 cm, Breite: 80 cm, Tiefe: 45 cm
 * VB: 35,- €
+
+***
+
+#### Schrank ####
+
+![schrank](images/schrank.jpg)
+
+* IKEA Hänge-Schrank für Mäntel und Jacken
+* Mit Zwei Türen
+* Höhe: 180 cm, Breite: 80 cm, Tiefe: 50 cm
+* VB: 35,- €
+
+
