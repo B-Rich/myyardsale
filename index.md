@@ -207,3 +207,14 @@ Oderstr. 10247 F'hain.
 * Mit drei Schubladen und Rollen
 * Höhe: 70 cm, Breite 37 cm ,Tiefe: 50 cm
 * VB: 25,- €
+
+***
+
+#### Kommode ####
+
+![kommode](images/kommode.jpg)
+
+* IKEA Kommode
+* Mit drei Schubladen
+* Höhe: 100 cm, Breite: 80 cm, Tiefe: 45 cm
+* VB: 35,- €
