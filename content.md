@@ -132,3 +132,12 @@ Oderstr. 10247 F'hain.
 * 2 Stück verfügbar
 * VB: 5,- € Stück
 
+***
+
+#### Große Deckenleuchte ####
+
+![grosse_deckenleuchte](images/grosse_deckenleuchte.jpg)
+
+* Große Deckenleuchte von IKEA
+* Mit vier Birnen inklusive
+* VB: 7,- €
