@@ -121,7 +121,7 @@ Oderstr. 10247 F'hain.
 * Besonders fürs Bad gut geeignet
 * Einer ist etwas größer als der andere
 * Kleiner: 1,- €
-* Großer: 2,€
+* Großer: 2,-€
 
 ***
 
