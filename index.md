@@ -113,18 +113,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Kleine Mülleimer ####
-
-![kleine_mülleimer](images/kleine_muelleimer.jpg)
-
-* Zwei kleine Mülleimer in weiss
-* Besonders fürs Bad gut geeignet
-* Einer ist etwas größer als der andere
-* Kleiner: 1,- €
-* Großer: 2,-€
-
-***
-
 #### Kleine Deckenleuchte ####
 
 ![kleine_deckenleuchte](images/kleine_deckenleuchte.jpg)
