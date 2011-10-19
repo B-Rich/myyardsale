@@ -87,3 +87,14 @@ Oderstr. 10247 F'hain.
 * Fassungsvermögen ca. 10 Tassen
 * Mit eingebautem Filter
 * VB: 10,- €
+
+***
+
+#### Toaster ####
+
+![toaster](images/toaster.jpg)
+
+* Hersteller: Cloer
+* Mit Stopknopf und Krümmellade
+* Fassungsvermögen zwei Toasts auf einmal
+* VB: 7,- €
