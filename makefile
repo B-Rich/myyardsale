@@ -4,6 +4,7 @@ index.html : index.md header.html footer.html
 	cat header.html > index.html
 	markdown index.md >> index.html
 	cat footer.html >> index.html
+	sed -i s/WWWWWW/`grep '^####.*####' index.md | wc -l`/ index.html
 	sed -i s/YYYYYY/"`date`"/ index.html
 	sed -i s/XXXXXX/`git rev-parse HEAD`/ index.html
 
