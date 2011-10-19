@@ -96,5 +96,5 @@ Oderstr. 10247 F'hain.
 
 * Hersteller: Cloer
 * Mit Stopknopf und Krümmellade
-* Fassungsvermögen zwei Toasts auf einmal
+* Fassungsvermögen: zwei Toasts auf einmal
 * VB: 7,- €
