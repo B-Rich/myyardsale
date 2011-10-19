@@ -8,9 +8,14 @@ index.html : content.html header.html footer.html
 content.html : content.md
 	markdown content.md > content.html
 
+sold.html : sold.md
+	cat header.html > sold.html
+	markdown sold.md >> sold.html
+	cat footer.html >> sold.html
+
 clean:
 	-rm index.html content.html
 
-upload:
-	rsync -vrt index.html images kudu:websites/haenel.co/yardsale/
+upload: content.html index.html sold.html
+	rsync -vrt index.html sold.html images kudu:websites/haenel.co/yardsale/
 	ssh kudu 'chmod a+rX -vR websites/haenel.co/yardsale/'

@@ -11,6 +11,8 @@ Oderstr. 10247 F'hain.
 * Zuletzt aktualisiert: YYYYYY<br/>
 * Version: XXXXXX</br>
 
+[Verkaufte Gegenstände](sold.html)
+
 ***
 
 #### Bügelbrett ####
