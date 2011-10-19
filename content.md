@@ -65,3 +65,14 @@ Oderstr. 10247 F'hain.
 * Formschöne Klobrille mit Pinguinen
 * VB: 15,- €
 
+***
+
+#### Mülleimer ####
+
+![muelleimer](images/muelleimer.jpg)
+
+* Mülleimer aus Plastik
+* 2 Stück, einer rot, der andere Gelb
+* Ideal zur Mülltrennung
+* Je: 3,- €
+* Zusammen: 5,- €
