@@ -141,3 +141,27 @@ Oderstr. 10247 F'hain.
 * Große Deckenleuchte von IKEA
 * Mit vier Birnen inklusive
 * VB: 7,- €
+
+***
+
+#### Duschvorhang ####
+
+![duschvorhang](images/duschvorhang.jpg)
+
+* Duschvorhang (sauber und gepflegt) inklusive Halterung
+* Entspannende Pinguinmotive
+* Maße: 90x90
+* Duschvorhang deckt leider nur ein Drittel ab
+* VB: 15,- €
+
+***
+
+#### Wäschetrockner ####
+
+![waeschetrockner](images/waeschetrockner.jpg)
+
+* Hersteller: Leifheit
+* Zum anschrauben
+* VB: 5,- €
+
+
