@@ -31,12 +31,11 @@ Oderstr. 10247 F'hain.
 * 2 Stück
 * So stabil wie Klappstühle halt sein können
 * Je: 3,- €
-* Zusammen: 6,- €
+* Zusammen: 5,- €
 
 ***
 
 #### Helle Klappstühle ####
-
 
 ![helle_klappstuehle](images/helle_klappstuehle.jpg)
 
@@ -44,7 +43,7 @@ Oderstr. 10247 F'hain.
 * 2 Stück
 * So stabil wie Klappstühle halt sein können
 * Je: 3,- €
-* Zusammen: 6,- €
+* Zusammen: 5,- €
 
 #### Stabilere Stühle ####
 
