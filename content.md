@@ -45,6 +45,8 @@ Oderstr. 10247 F'hain.
 * Je: 3,- €
 * Zusammen: 5,- €
 
+***
+
 #### Stabilere Stühle ####
 
 ![stuehle](images/stuehle.jpg)
