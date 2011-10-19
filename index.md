@@ -240,3 +240,13 @@ Oderstr. 10247 F'hain.
 * Höhe: 72 cm, Breite 37 cm ,Tiefe: 50 cm
 * VB: 20,- €
 
+***
+
+#### Ventilator ####
+
+![ventilator](images/ventilator.jpg)
+
+* Durchmesser: 27 cm
+* Zwei Geschwindigkeiten
+* Mit Fetsstellautomatik
+* VB: 25,- €
