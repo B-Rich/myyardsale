@@ -109,3 +109,14 @@ Oderstr. 10247 F'hain.
 * Fassungsvermögen: 1L
 * VB: 3,- €
 
+***
+
+#### Kleine Mülleimer ####
+
+![kleine_mülleimer](images/kleine_muelleimer.jpg)
+
+* Zwei kleine Mülleimer in weiss
+* Besonders fürs Bad gut geeignet
+* Einer ist etwas größer als der andere
+* Kleiner: 1,- €
+* Großer: 2,€
