@@ -1,6 +1,6 @@
 # Yardsale™ by Valentin #
 
-I verlasse Berlin Ende November. Hier verkaufe ich mein Hab und Gut.  Du bist an
+Ich verlasse Berlin Ende November. Hier verkaufe ich mein Hab und Gut.  Du bist an
 einem oder mehreren der Gegenstände interessiert? Schicke eine E-Mail an
 [yardsale@haenel.co](mailto:yardsale@haenel.co)(bevorzugt) oder ruf an:
 0176/66604935(wenn es sein muss).
