@@ -46,3 +46,11 @@ Oderstr. 10247 F'hain.
 * Je: 3,- €
 * Zusammen: 6,- €
 
+#### Stabilere Stühle ####
+
+![stuehle](images/stuehle.jpg)
+
+* Stabile (nicht klappbare) Stühle
+* Höhe: ca. 45 cm
+* Je: 4,- €
+* Zusammen: 6,- €
