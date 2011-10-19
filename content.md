@@ -98,3 +98,14 @@ Oderstr. 10247 F'hain.
 * Mit Stopknopf und Krümmellade
 * Fassungsvermögen: zwei Toasts auf einmal
 * VB: 7,- €
+
+***
+
+#### Wasserkocher ####
+
+![wasserkocher](images/wasserkocher.jpg)
+
+* Hersteller: Grosseg
+* Fassungsvermögen: 1L
+* VB: 3,- €
+
