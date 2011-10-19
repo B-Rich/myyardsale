@@ -164,4 +164,14 @@ Oderstr. 10247 F'hain.
 * Zum anschrauben
 * VB: 5,- €
 
+***
+
+#### Allzweckregal ####
+
+![allzweckregal](images/allzweckregal.jpg)
+
+* Aus Holz
+* Mit 5 Einlagen
+* Höhe: 160 cm, Breite: 68 cm, Tiefe: 33 cm
+* VB: 25,- €
 
