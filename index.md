@@ -186,3 +186,24 @@ Oderstr. 10247 F'hain.
 * Ca. zwei Jahre alt
 * Guter Zustand
 * VB: 100,- €
+
+***
+
+#### Bücherregal ####
+
+![buecherregal](images/buecherregal.jpg)
+
+* Bücherregal von IKEA
+* Mir vier Fächern
+* Höhe: 80 cm, Breite: 80 cm, Tiefe: 39 cm
+* VB: 30,- €
+
+***
+
+#### Schwarzes Schränkchen ####
+
+![schwarzes_schraenkchen](images/schwarzes_schraenkchen.jpg)
+
+* Mit drei Schubladen und Rollen
+* Höhe: 70 cm, Breite 37 cm ,Tiefe: 50 cm
+* VB: 25,- €
