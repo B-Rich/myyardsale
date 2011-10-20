@@ -28,17 +28,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Schwarze Klappstühle ####
-
-![schwarze_klappstuehle](images/schwarze_klappstuehle.jpg)
-
-* 2 Stück
-* So stabil wie Klappstühle halt sein können
-* Je: 3,- €
-* Zusammen: 5,- €
-
-***
-
 #### Helle Klappstühle ####
 
 ![helle_klappstuehle](images/helle_klappstuehle.jpg)

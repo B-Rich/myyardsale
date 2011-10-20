@@ -19,3 +19,16 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * Großer: 2,-€
 
 ***
+
+#### Schwarze Klappstühle ####
+
+**SOLD on Thu Oct 20 13:37:39 CEST 2011**
+
+![schwarze_klappstuehle](images/schwarze_klappstuehle.jpg)
+
+* 2 Stück
+* So stabil wie Klappstühle halt sein können
+* Je: 3,- €
+* Zusammen: 5,- €
+
+***
