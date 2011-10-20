@@ -9,11 +9,13 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 Oderstr. 10247 F'hain.
 
 * Noch zu verkaufen: WWWWWW
-* Kurze URL: [http://krzz.de/1t](http://krzz.de/1t)
+* Bereits verkauft: ZZZZZZ  ([Verkaufte Gegenstände](sold.html))
 * Zuletzt aktualisiert: YYYYYY
-* Version: XXXXXX
 
-[Verkaufte Gegenstände](sold.html)
+***
+
+* Kurze URL: [http://krzz.de/1t](http://krzz.de/1t)
+* Version: XXXXXX
 
 ***
 
