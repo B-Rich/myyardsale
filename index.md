@@ -287,3 +287,14 @@ Oderstr. 10247 F'hain.
 * VB: 35,- €
 
 ***
+
+#### Netzwerkkarte ####
+
+![netzwerkkarte](images/netzwerkkarte.jpg)
+
+* PCI Gigabit Netzwerkkarte
+* VB: 5,- €
+
+***
+
+
