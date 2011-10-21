@@ -326,3 +326,15 @@ Oderstr. 10247 F'hain.
 * VB: 10,- €
 
 ***
+
+#### Netzwerkkabel ####
+
+![netzwerkkabel](images/netzwerkkabel.jpg)
+
+* Diverse Netzwerkkabel
+* Für Bastler
+* VB: 10,- €
+
+***
+
+
