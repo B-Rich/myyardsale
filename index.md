@@ -306,3 +306,13 @@ Oderstr. 10247 F'hain.
 * VB: 25,- €
 
 ***
+
+
+#### Router ####
+
+![router](images/router.jpg)
+
+* WLAN Router von Linksys WRT54GL v1.1
+* VB 25,- €
+
+***
