@@ -268,3 +268,13 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Regal ####
+
+![regal](images/regal.jpg)
+
+* Offenes Regal
+* Höhe: 167 cm, Breite: 88 cm, Tiefe 33 cm
+* VB: 25,- €
+
+***
