@@ -298,3 +298,11 @@ Oderstr. 10247 F'hain.
 ***
 
 
+#### SATA-Karte ####
+
+![satakarte](images/satakarte.jpg)
+
+* 4-Port PCI SATA Karte von Promise
+* VB: 25,- €
+
+***
