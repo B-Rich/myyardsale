@@ -278,3 +278,12 @@ Oderstr. 10247 F'hain.
 * VB: 25,- €
 
 ***
+
+#### Audiokarte ####
+
+![audiokarte](images/audiokarte.jpg)
+
+* [PCI Audiokarte von M-Audio](http://www.m-audio.com/products/en_us/Audiophile2496.html)
+* VB: 35,- €
+
+***
