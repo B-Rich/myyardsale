@@ -8,7 +8,7 @@ einem oder mehreren der Gegenstände interessiert? Schicke eine E-Mail an
 Die Sachen sind alle für Selbstabholer und befinden sich in der
 Oderstr. 10247 F'hain.
 
-* Noch zu verkaufen: WWWWWW
+* Noch zu verkaufen/verschenken: WWWWWW
 * Bereits verkauft: ZZZZZZ  ([Verkaufte Gegenstände](sold.html))
 * Zuletzt aktualisiert: YYYYYY
 
