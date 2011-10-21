@@ -356,3 +356,12 @@ Oderstr. 10247 F'hain.
 * VB: 1,- €
 
 ***
+
+#### PCMCIA USB Hub  ####
+
+![pcmcia_usb](images/pcmcia_usb.jpg)
+
+* PCMCIA USB Hub mit 4 Ports
+* VB: 4,- €
+
+***
