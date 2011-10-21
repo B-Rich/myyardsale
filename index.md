@@ -375,3 +375,13 @@ Oderstr. 10247 F'hain.
 * VB: 10,- €
 
 ***
+
+#### PC Lüfter  ####
+
+![luefter](images/luefter.jpg)
+
+* Drei Lüfter von Papst
+* Hohe Umdrehungszahl
+* VB: 9,- €
+
+***
