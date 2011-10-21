@@ -337,4 +337,12 @@ Oderstr. 10247 F'hain.
 
 ***
 
+#### Arbeitsspeicher  ####
 
+![arbeitsspeicher](images/arbeitsspeicher.jpg)
+
+* Diverse Riegel Arbeitsspeicher
+* Für Bastler
+* VB: 3,- €
+
+***
