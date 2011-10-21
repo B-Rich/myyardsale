@@ -365,3 +365,13 @@ Oderstr. 10247 F'hain.
 * VB: 4,- €
 
 ***
+
+#### Audiokabel ####
+
+![audiokabel](images/audiokabel.jpg)
+
+* Diverse Audiokabel
+* Für Bastler
+* VB: 10,- €
+
+***
