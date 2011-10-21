@@ -395,3 +395,13 @@ Oderstr. 10247 F'hain.
 * Zu verschenken
 
 ***
+
+#### USB Kabel ####
+
+![usb_kabel](images/usb_kabel.jpg)
+
+* Diverse USB Kabel
+* Für Bastler
+* VB: 5,- €
+
+***
