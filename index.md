@@ -405,3 +405,14 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+
+#### SATA Kabel ####
+
+![sata_kabel](images/sata_kabel.jpg)
+
+* Diverse SATA Kabel
+* Für Bastler
+* VB: 10,- €
+
+***
