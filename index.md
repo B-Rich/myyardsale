@@ -257,3 +257,13 @@ Oderstr. 10247 F'hain.
 * VB: 30,- €
 
 ***
+
+#### Schuregal ####
+
+![schuhregal](images/schuhregal.jpg)
+
+* Schuregal mit zwei Ablagen
+* Stark verschmutzt
+* VB: 5,- €
+
+***
