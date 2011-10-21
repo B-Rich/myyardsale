@@ -14,8 +14,11 @@ Oderstr. 10247 F'hain.
 
 ***
 
-* Kurze URL: [http://krzz.de/1t](http://krzz.de/1t)
 * Version: XXXXXX
+* Quellen: [auf Github](https://github.com/esc/myyardsale)
+* Rss: [atom feed of commits](https://github.com/esc/myyardsale/commits/master.atom)
+* Kurze URL: [http://krzz.de/1t](http://krzz.de/1t)
+* Proudly make with ``vim``,``git``, ``markdown``, ``make`` and ``imagemagick``
 
 ***
 
