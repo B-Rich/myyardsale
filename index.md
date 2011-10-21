@@ -385,3 +385,13 @@ Oderstr. 10247 F'hain.
 * VB: 9,- €
 
 ***
+
+#### Reste einer Kabelsammlung ####
+
+![kabel_sammlung_reste](images/kabel_sammlung_reste.jpg)
+
+* Reste meiner Kabelsammlung
+* Für Bastler
+* Zu verschenken
+
+***
