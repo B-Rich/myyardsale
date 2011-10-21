@@ -244,7 +244,7 @@ Oderstr. 10247 F'hain.
 
 * Durchmesser: 27 cm
 * Zwei Geschwindigkeiten
-* Mit Feststellautomatik
+* Mit Feststellknopf
 * VB: 25,- €
 
 
