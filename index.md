@@ -316,3 +316,13 @@ Oderstr. 10247 F'hain.
 * VB 25,- €
 
 ***
+
+#### Diverse Karten ####
+
+![diverse_karten](images/diverse_karten.jpg)
+
+* Diverse Karten: Grafik, Netzwerk, WLAN, Firewire
+* Für Bastler
+* VB: 10,- €
+
+***
