@@ -346,3 +346,13 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### Netzwerkkarte für Notebooks ####
+
+![pcmcia_netzwerk](images/pcmcia_netzwerk.jpg)
+
+* PCMCIA Netzwerkkarte
+* Sehr alt und hat Wackelkontakt
+* VB: 1,- €
+
+***
