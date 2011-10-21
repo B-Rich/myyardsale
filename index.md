@@ -243,3 +243,17 @@ Oderstr. 10247 F'hain.
 * Zwei Geschwindigkeiten
 * Mit Feststellautomatik
 * VB: 25,- €
+
+
+***
+
+#### Tisch  ####
+
+![tisch](images/tisch.jpg)
+
+* Schwarzer, runder Tisch
+* Durchmesser: 120 cm
+* Inklusive Verlängerung: 38 cm
+* VB: 30,- €
+
+***
