@@ -464,3 +464,13 @@ Oderstr. 10247 F'hain.
 * Zu Verschenken
 
 ***
+
+#### Universal Netzteile ####
+
+![universal_netzteile](images/universal_netzteile.jpg)
+
+* Zwei universal Netzteile
+* Leider nur ein Satz Stecker
+* VB: 20,- €
+
+***
