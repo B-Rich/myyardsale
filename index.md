@@ -529,3 +529,13 @@ Oderstr. 10247 F'hain.
 * VB: 12,- €
 
 ***
+
+
+#### Funkmaus von Genius ####
+
+![funkmaus](images/funkmaus.jpg)
+
+* Etwas kleiners Format
+* VB: 8,- €
+
+***
