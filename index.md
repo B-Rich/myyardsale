@@ -559,3 +559,13 @@ Oderstr. 10247 F'hain.
 * VB: 15,- €
 
 ***
+
+#### Wäschekorb ####
+
+![waeschekorb](images/waeschekorb.jpg)
+
+* Blauer Wäschekorb
+* Höhe: 60 cm, Breite: 45cm, Tiefe: 35 cm
+* VB: 5,- €
+
+***
