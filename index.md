@@ -619,3 +619,12 @@ Oderstr. 10247 F'hain.
 * VB: 100,- € (zusammen)
 
 ***
+
+#### Fernseh Tisch ####
+
+![fernseh_tisch](images/fernseh_tisch.jpg)
+
+* Tisch mit Rollen, ideal für Fernseher oder so
+* VB: 5,- €
+
+***
