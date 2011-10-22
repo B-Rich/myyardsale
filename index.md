@@ -483,3 +483,12 @@ Oderstr. 10247 F'hain.
 * VB: 6,- €
 
 ***
+
+#### LED Mousepad ####
+
+![led_mousepad](images/led_mousepad.jpg)
+
+* Blau leuchtendes LED Mousepad mit 4-Port USB Hub
+* VB: 5,- €
+
+***
