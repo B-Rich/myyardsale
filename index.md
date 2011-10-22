@@ -501,3 +501,13 @@ Oderstr. 10247 F'hain.
 * VB: 10,- €
 
 ***
+
+#### Telefon ####
+
+![telefon](images/telefon.jpg)
+
+* Telekom Volcano
+* Schnurgebundenes Telefon
+* VB: 5,- €
+
+***
