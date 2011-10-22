@@ -578,3 +578,12 @@ Oderstr. 10247 F'hain.
 * Zu verschenken
 
 ***
+
+#### Wäschewanne ####
+
+![wanne](images/wanne.jpg)
+
+* Wäschewanne
+* VB: 5,- €
+
+***
