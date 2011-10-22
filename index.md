@@ -16,7 +16,7 @@ Oderstr. 10247 F'hain.
 
 * Version: XXXXXX
 * [Quellen auf Github](https://github.com/esc/myyardsale)
-* [RSS atom feed der commits](https://github.com/esc/myyardsale/commits/master.atom)
+* [RSS Atom Feed der Commits](https://github.com/esc/myyardsale/commits/master.atom)
 * Kurze URL: [http://krzz.de/1t](http://krzz.de/1t)
 * [Google Translate](http://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fhaenel.co%2Fyardsale%2F)
 * Proudly made with ``vim``,``git``, ``markdown``, ``make`` and ``imagemagick``
