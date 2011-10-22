@@ -492,3 +492,12 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Kaltgerätekabel ####
+
+![kaltgeraetekabel](images/kaltgeraetekabel.jpg)
+
+* Diverse Kaltgerätekabel
+* VB: 10,- €
+
+***
