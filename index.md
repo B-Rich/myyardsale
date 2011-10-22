@@ -443,3 +443,14 @@ Oderstr. 10247 F'hain.
 * VB: 25,- €
 
 ***
+
+#### Naruto Sammelkartenspiel ####
+
+![naruto_karten](images/naruto_karten.jpg)
+
+* Fast komplette Serie Eins, inkl vielen Dubletten
+* Sehr guter Zustand
+* Für Sammler
+* VB: 30,- €
+
+***
