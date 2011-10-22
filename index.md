@@ -420,3 +420,14 @@ Oderstr. 10247 F'hain.
 * VB: 10,- €
 
 ***
+
+#### Laptop Tasche ####
+
+![laptop_tasche](images/laptop_tasche.jpg)
+
+* Laptop Tasche von Asus mit vielen Fächern
+* Für 15 Zoll Notebooks
+* Nie benutzt, wie neu!
+* VB: 15,- €
+
+***
