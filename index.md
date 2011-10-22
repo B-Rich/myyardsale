@@ -431,3 +431,15 @@ Oderstr. 10247 F'hain.
 * VB: 15,- €
 
 ***
+
+
+#### Adidas Sneaker ####
+
+![sneaker](images/sneaker.jpg)
+
+* Adidas Sneaker Superstar
+* Größe: 44 2/3
+* Ungetragen, sind mir zu groß
+* VB: 25,- €
+
+***
