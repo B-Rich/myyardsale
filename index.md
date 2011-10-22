@@ -596,3 +596,13 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Fernseher ####
+
+![fernseher](images/fernseher.jpg)
+
+* Alter Röhrenfernseher von Philips
+* Bilddiagonale: ca 52 cm
+* VB: 10,- €
+
+***
