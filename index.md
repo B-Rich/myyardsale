@@ -511,3 +511,12 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### USB Licht ####
+
+![usb_licht](images/usb_licht.jpg)
+
+* USB Licht von Kensington
+* VB: 3,- €
+
+***
