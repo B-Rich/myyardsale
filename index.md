@@ -520,3 +520,12 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### Logitech Funkmaus ####
+
+![logitech_funk_maus](images/logitech_funk_maus.jpg)
+
+* Mit vielen extra Tasten
+* VB: 12,- €
+
+***
