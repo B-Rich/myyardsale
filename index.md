@@ -587,3 +587,12 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Kleiner Tisch ####
+
+![kleiner_tisch](images/kleiner_tisch.jpg)
+
+* Höhe: 45 cm, Breite 55 cm,
+* VB: 5,- €
+
+***
