@@ -454,3 +454,13 @@ Oderstr. 10247 F'hain.
 * VB: 30,- €
 
 ***
+
+#### Netzteile ####
+
+![netzteile](images/netzteile.jpg)
+
+* Diverse Netzteile, auch Ausländisch
+* Für Bastler
+* Zu Verschenken
+
+***
