@@ -474,3 +474,12 @@ Oderstr. 10247 F'hain.
 * VB: 20,- €
 
 ***
+
+#### Audio/Video Kabel ####
+
+![audio_video_kabel](images/audio_video_kabel.jpg)
+
+* Zwei Audio/Video Kabel für Fernseher(?)
+* VB: 6,- €
+
+***
