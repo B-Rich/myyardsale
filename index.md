@@ -569,3 +569,12 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### CD/DVD Drive Enclosure ####
+
+![enclosure](images/enclosure.jpg)
+
+* Enclosure für CD/DVD Laufwerke
+* Zu verschenken
+
+***
