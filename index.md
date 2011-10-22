@@ -548,3 +548,14 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### Holzschränkchen ####
+
+![holzschraenkchen](images/holzschraenkchen.jpg)
+
+* Links drei Schubladen, rechts zwei Ablagen
+* Links hinten wurde ein Teil herausgesägt
+* Höhe: 85 cm, Breite: 77 cm, Tiefe: 44 cm
+* VB: 15,- €
+
+***
