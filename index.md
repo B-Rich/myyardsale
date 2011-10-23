@@ -263,7 +263,7 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Schuregal ####
+#### Schuhregal ####
 
 ![schuhregal](images/schuhregal.jpg)
 
@@ -602,6 +602,7 @@ Oderstr. 10247 F'hain.
 ![fernseher](images/fernseher.jpg)
 
 * Alter Röhrenfernseher von Philips
+* Spiegelbild kann variieren
 * Bilddiagonale: ca 52 cm
 * VB: 10,- €
 
