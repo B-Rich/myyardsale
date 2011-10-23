@@ -629,3 +629,15 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Schreibtisch  ####
+
+![schwarzer_tisch](images/schwarzer_tisch.jpg)
+
+* Schwarzer Schreibtisch von IKEA
+* Zwei verfügbar
+* Leider mit Kratzern und Abnutzungsspuren
+* Höhe: 75 cm, Breite: 140 cm, Tiefe: 75 cm
+* VB: 30,- € (Stück)
+
+***
