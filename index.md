@@ -641,3 +641,14 @@ Oderstr. 10247 F'hain.
 * VB: 30,- € (Stück)
 
 ***
+
+#### Bett (Futon) ####
+
+![bett](images/bett.jpg)
+
+* Die Matratze ist etwas härter, ist ja auch ein Futon
+* Hervoragendes Schlafgefühl
+* Höhe: 30 cm, Länge: 215 cm, Breite: 115 cm
+* VB: 75,- €
+
+***
