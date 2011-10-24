@@ -670,3 +670,12 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Kleiderhaken ####
+
+![kleiderhaken](images/kleiderhaken.jpg)
+
+* Mit vier Haken
+* VB: 3,- €
+
+***
