@@ -682,3 +682,13 @@ Oderstr. 10247 F'hain.
 * VB: 35,-
 
 ***
+
+#### Chefsessel ####
+
+![chefsessel](images/chefsessel.jpg)
+
+* Chefsessel
+* Feststellmechanik defekt, daher:
+* Zu verschenken
+
+***
