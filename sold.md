@@ -71,3 +71,25 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 9,- €
 
 ***
+
+#### Logitech Funkmaus ####
+
+** SOLD: Mon Oct 24 19:02:21 CEST 2011**
+
+![logitech_funk_maus](images/logitech_funk_maus.jpg)
+
+* Mit vielen extra Tasten
+* VB: 12,- €
+
+***
+
+#### Funkmaus von Genius ####
+
+** SOLD: Mon Oct 24 19:02:21 CEST 2011**
+
+![funkmaus](images/funkmaus.jpg)
+
+* Etwas kleiners Format
+* VB: 8,- €
+
+***

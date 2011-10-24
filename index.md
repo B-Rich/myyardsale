@@ -502,25 +502,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Logitech Funkmaus ####
-
-![logitech_funk_maus](images/logitech_funk_maus.jpg)
-
-* Mit vielen extra Tasten
-* VB: 12,- €
-
-***
-
-
-#### Funkmaus von Genius ####
-
-![funkmaus](images/funkmaus.jpg)
-
-* Etwas kleiners Format
-* VB: 8,- €
-
-***
-
 #### USB Netlink ####
 
 ![usb_netlink](images/usb_netlink.jpg)
