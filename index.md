@@ -707,3 +707,14 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Wasserkessel ####
+
+![wasserkessel](images/wasserkessel.jpg)
+
+* Von WMF
+* Für Gas, Ceran, Induktion...
+* Wirklich schönes Stück
+* VB: 15,- €
+
+***
