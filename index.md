@@ -701,3 +701,12 @@ Oderstr. 10247 F'hain.
 * VB: 7,- €
 
 ***
+
+#### Wischmopp ####
+
+![wischmopp](images/wischmopp.jpg)
+
+* Vileda Wischmopp
+* VB: 10,- €
+
+***
