@@ -766,3 +766,12 @@ Oderstr. 10247 F'hain.
 * VB: 15,- €
 
 ***
+
+#### Kleine lampe ####
+
+![kleine_lampe](images/kleine_lampe.jpg)
+
+* Ideal fürs bad
+* VB: 2,- €
+
+***
