@@ -47,3 +47,27 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 100,- € (zusammen)
 
 ***
+
+#### Audiokabel ####
+
+**SOLD Mon Oct 24 18:11:01 CEST 201**
+
+![audiokabel](images/audiokabel.jpg)
+
+* Diverse Audiokabel
+* Für Bastler
+* VB: 10,- €
+
+***
+
+#### PC Lüfter  ####
+
+![luefter](images/luefter.jpg)
+
+**SOLD Mon Oct 24 18:11:01 CEST 201**
+
+* Drei Lüfter von Papst
+* Hohe Umdrehungszahl
+* VB: 9,- €
+
+***

@@ -370,25 +370,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Audiokabel ####
-
-![audiokabel](images/audiokabel.jpg)
-
-* Diverse Audiokabel
-* Für Bastler
-* VB: 10,- €
-
-***
-
-#### PC Lüfter  ####
-
-![luefter](images/luefter.jpg)
-
-* Drei Lüfter von Papst
-* Hohe Umdrehungszahl
-* VB: 9,- €
-
-***
 
 #### Reste einer Kabelsammlung ####
 
