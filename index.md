@@ -692,3 +692,12 @@ Oderstr. 10247 F'hain.
 * Zu verschenken
 
 ***
+
+#### Staubsauger ####
+
+![staubsauger](images/staubsauger.jpg)
+
+* Hoover Studio 1500 W
+* VB: 7,- €
+
+***
