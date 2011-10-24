@@ -670,3 +670,15 @@ Oderstr. 10247 F'hain.
 * VB: 1600,- €
 
 ***
+
+#### Vorhänge ####
+
+![vorhaenge](images/vorhaenge.jpg)
+
+* Weiße Vorhänge inkl. Vorhangstange
+* Leider mit kleinen schwarzen Flecken
+* Zwei Stück
+* Länge: 230 cm, Breite 80 cm
+* VB: 35,-
+
+***
