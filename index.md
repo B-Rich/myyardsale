@@ -775,3 +775,12 @@ Oderstr. 10247 F'hain.
 * VB: 2,- €
 
 ***
+
+#### Spiegel ####
+
+![spiegel](images/spiegel.jpg)
+
+* Badezimmerspiegel
+* VB: 3,- €
+
+***
