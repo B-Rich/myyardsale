@@ -688,3 +688,12 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### Besen und Handfeger ####
+
+![besen_handfeger](images/besen_handfeger.jpg)
+
+* Guter Zustand
+* VB: 5,- €
+
+***
