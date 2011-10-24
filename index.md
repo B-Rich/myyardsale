@@ -784,3 +784,12 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### PC Leichen ####
+
+![rechner](images/rechner.jpg)
+
+* Drei PC Leichen
+* Zu verschenken
+
+***
