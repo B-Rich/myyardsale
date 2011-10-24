@@ -697,3 +697,13 @@ Oderstr. 10247 F'hain.
 * VB: 5,- €
 
 ***
+
+#### Lampen  ####
+
+![lampen](images/lampen.jpg)
+
+* Satz Lampen
+* Eine einzelne und eine doppelte
+* VB: 5,- €
+
+***
