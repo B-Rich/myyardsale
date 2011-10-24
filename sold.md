@@ -62,9 +62,9 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 #### PC Lüfter  ####
 
-![luefter](images/luefter.jpg)
-
 **SOLD Mon Oct 24 18:11:01 CEST 2011**
+
+![luefter](images/luefter.jpg)
 
 * Drei Lüfter von Papst
 * Hohe Umdrehungszahl
@@ -74,7 +74,7 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 #### Logitech Funkmaus ####
 
-** SOLD: Mon Oct 24 19:02:21 CEST 2011**
+**SOLD: Mon Oct 24 19:02:21 CEST 2011**
 
 ![logitech_funk_maus](images/logitech_funk_maus.jpg)
 
@@ -85,7 +85,7 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 #### Funkmaus von Genius ####
 
-** SOLD: Mon Oct 24 19:02:21 CEST 2011**
+**SOLD: Mon Oct 24 19:02:21 CEST 2011**
 
 ![funkmaus](images/funkmaus.jpg)
 
