@@ -746,3 +746,14 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### PC Schrauben etc. ####
+
+![pc_schrauben](images/pc_schrauben.jpg)
+
+* Diverse PC Schrauben, Hitzepaste, BIOS Batterien, Motherboard-Mounter, Jumper etc..
+* Gut sortiert
+* Optimal für Bastler
+* VB: 15,- €
+
+***
