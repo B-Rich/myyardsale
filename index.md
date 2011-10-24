@@ -679,3 +679,12 @@ Oderstr. 10247 F'hain.
 * VB: 3,- €
 
 ***
+
+#### Lampe ####
+
+![lampe](images/lampe.jpg)
+
+* Zum an die Wand montieren
+* VB: 3,- €
+
+***
