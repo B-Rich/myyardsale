@@ -757,3 +757,12 @@ Oderstr. 10247 F'hain.
 * VB: 15,- €
 
 ***
+
+#### Zwei Glasablagen ####
+
+![zwei_glas_ablagen](images/zwei_glas_ablagen.jpg)
+
+* Inklusive Halterung
+* VB: 15,- €
+
+***
