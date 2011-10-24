@@ -35,7 +35,7 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 #### Boxen ####
 
-**SOLD Mon Oct 24 18:11:01 CEST 201**
+**SOLD Mon Oct 24 18:11:01 CEST 2011**
 
 ![boxen](images/boxen.jpg)
 
@@ -50,7 +50,7 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 #### Audiokabel ####
 
-**SOLD Mon Oct 24 18:11:01 CEST 201**
+**SOLD Mon Oct 24 18:11:01 CEST 2011**
 
 ![audiokabel](images/audiokabel.jpg)
 
@@ -64,7 +64,7 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 ![luefter](images/luefter.jpg)
 
-**SOLD Mon Oct 24 18:11:01 CEST 201**
+**SOLD Mon Oct 24 18:11:01 CEST 2011**
 
 * Drei Lüfter von Papst
 * Hohe Umdrehungszahl
