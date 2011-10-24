@@ -32,3 +32,18 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * Zusammen: 5,- €
 
 ***
+
+#### Boxen ####
+
+**SOLD Mon Oct 24 18:11:01 CEST 201**
+
+![boxen](images/boxen.jpg)
+
+* Activboxen von McCrypt
+* 4 Ohm 110 dB
+* 50 - 20,000 Hz
+* 80 W R.M.S. 100 W Max
+* Inklusive langen XLR Kabeln
+* VB: 100,- € (zusammen)
+
+***
