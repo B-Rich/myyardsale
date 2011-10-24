@@ -718,3 +718,13 @@ Oderstr. 10247 F'hain.
 * VB: 15,- €
 
 ***
+
+#### Fußmatte ####
+
+![fussmatte](images/fussmatte.jpg)
+
+* Abtreter/Fußmatte
+* Anthrazit
+* VB: 3,- €
+
+***
