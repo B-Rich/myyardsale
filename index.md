@@ -737,3 +737,12 @@ Oderstr. 10247 F'hain.
 * VB: 4,- €
 
 ***
+
+#### Ablage ####
+
+![ablage](images/ablage.jpg)
+
+* In brauner Optik
+* VB: 3,- €
+
+***
