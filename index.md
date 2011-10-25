@@ -23,29 +23,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Bügelbrett ####
-
-![Bügelbrett](images/buegelbrett.jpg)
-
-* Bezug intakt
-* Stabiles Gestell
-* Hinreißend schöne Blumenmuster
-* VB: 10,- €
-
-***
-
-#### Helle Klappstühle ####
-
-![helle_klappstuehle](images/helle_klappstuehle.jpg)
-
-* NEU: jetzt auch in hell!
-* 2 Stück
-* So stabil wie Klappstühle halt sein können
-* Je: 3,- €
-* Zusammen: 5,- €
-
-***
-
 #### Stabilere Stühle ####
 
 ![stuehle](images/stuehle.jpg)
@@ -143,48 +120,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Wäschetrockner ####
-
-![waeschetrockner](images/waeschetrockner.jpg)
-
-* Hersteller: Leifheit
-* Zum anschrauben
-* VB: 5,- €
-
-***
-
-#### Allzweckregal ####
-
-![allzweckregal](images/allzweckregal.jpg)
-
-* Aus Holz
-* Mit 5 Einlagen
-* Höhe: 160 cm, Breite: 68 cm, Tiefe: 33 cm
-* VB: 25,- €
-
-***
-
-#### Kühlschrank ####
-
-![kuehlschrank_zu](images/kuehlschrank_zu.jpg)
-![kuehlschrank_offen](images/kuehlschrank_offen.jpg)
-
-* Hersteller: Beko
-* ...hat leider einen Transportschaden, zwei Dellen in der Tür :-(
-* VB: 40,- €
-
-***
-
-#### Waschmaschine ####
-
-![waschmaschine](images/waschmaschine.jpg)
-
-* Hersteller: Bloomberg
-* Ca. zwei Jahre alt
-* Guter Zustand
-* VB: 100,- €
-
-***
 
 #### Bücherregal ####
 
@@ -620,18 +555,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Vorhänge ####
-
-![vorhaenge](images/vorhaenge.jpg)
-
-* Weiße Vorhänge inkl. Vorhangstange
-* Leider mit kleinen schwarzen Flecken
-* Zwei Stück
-* Länge: 230 cm, Breite 80 cm
-* VB: 35,-
-
-***
-
 #### Chefsessel ####
 
 ![chefsessel](images/chefsessel.jpg)
@@ -668,15 +591,6 @@ Oderstr. 10247 F'hain.
 * Nashua Media Products
 * DVD+R 4.7 GB
 * VB: 5,- €
-
-***
-
-#### Kleiderhaken ####
-
-![kleiderhaken](images/kleiderhaken.jpg)
-
-* Mit vier Haken
-* VB: 3,- €
 
 ***
 

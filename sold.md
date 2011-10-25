@@ -93,3 +93,106 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 8,- €
 
 ***
+
+#### Waschmaschine ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![waschmaschine](images/waschmaschine.jpg)
+
+* Hersteller: Bloomberg
+* Ca. zwei Jahre alt
+* Guter Zustand
+* VB: 100,- €
+
+***
+
+#### Kühlschrank ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![kuehlschrank_zu](images/kuehlschrank_zu.jpg)
+![kuehlschrank_offen](images/kuehlschrank_offen.jpg)
+
+* Hersteller: Beko
+* ...hat leider einen Transportschaden, zwei Dellen in der Tür :-(
+* VB: 40,- €
+
+***
+
+#### Allzweckregal ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![allzweckregal](images/allzweckregal.jpg)
+
+* Aus Holz
+* Mit 5 Einlagen
+* Höhe: 160 cm, Breite: 68 cm, Tiefe: 33 cm
+* VB: 25,- €
+
+***
+
+#### Helle Klappstühle ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![helle_klappstuehle](images/helle_klappstuehle.jpg)
+
+* NEU: jetzt auch in hell!
+* 2 Stück
+* So stabil wie Klappstühle halt sein können
+* Je: 3,- €
+* Zusammen: 5,- €
+
+***
+
+#### Bügelbrett ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![Bügelbrett](images/buegelbrett.jpg)
+
+* Bezug intakt
+* Stabiles Gestell
+* Hinreißend schöne Blumenmuster
+* VB: 10,- €
+
+***
+
+#### Wäschetrockner ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![waeschetrockner](images/waeschetrockner.jpg)
+
+* Hersteller: Leifheit
+* Zum anschrauben
+* VB: 5,- €
+
+***
+
+#### Kleiderhaken ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![kleiderhaken](images/kleiderhaken.jpg)
+
+* Mit vier Haken
+* VB: 3,- €
+
+***
+
+#### Vorhänge ####
+
+**SOLD Tue Oct 25 16:35:35 CEST 2011**
+
+![vorhaenge](images/vorhaenge.jpg)
+
+* Weiße Vorhänge inkl. Vorhangstange
+* Leider mit kleinen schwarzen Flecken
+* Zwei Stück
+* Länge: 230 cm, Breite 80 cm
+* VB: 35,-
+
+***
