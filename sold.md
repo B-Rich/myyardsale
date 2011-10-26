@@ -340,3 +340,15 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 4,- €
 
 ***
+
+
+#### Router ####
+
+**SOLD Wed Oct 26 11:52:43 CEST 2011**
+
+![router](images/router.jpg)
+
+* WLAN Router von Linksys WRT54GL v1.1
+* VB 25,- €
+
+***

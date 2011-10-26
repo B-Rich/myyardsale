@@ -206,16 +206,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-
-#### Router ####
-
-![router](images/router.jpg)
-
-* WLAN Router von Linksys WRT54GL v1.1
-* VB 25,- €
-
-***
-
 #### Diverse Karten ####
 
 ![diverse_karten](images/diverse_karten.jpg)
