@@ -20,3 +20,7 @@ clean:
 upload: index.html sold.html
 	rsync -vrt index.html sold.html images kudu:websites/haenel.co/yardsale/
 	ssh kudu 'chmod a+rX -vR websites/haenel.co/yardsale/'
+
+deploy:
+	make upload
+	git push
