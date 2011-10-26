@@ -244,3 +244,28 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 15,- €
 
 ***
+
+#### Schwarzes Schränkchen ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![schwarzes_schraenkchen](images/schwarzes_schraenkchen.jpg)
+
+* Mit drei Schubladen und Rollen
+* Höhe: 70 cm, Breite 37 cm ,Tiefe: 50 cm
+* VB: 25,- €
+
+***
+
+#### DVDs ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![dvds](images/dvds.jpg)
+
+* 100 leere DVDs
+* Nashua Media Products
+* DVD+R 4.7 GB
+* VB: 5,- €
+
+***

@@ -121,16 +121,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Schwarzes Schränkchen ####
-
-![schwarzes_schraenkchen](images/schwarzes_schraenkchen.jpg)
-
-* Mit drei Schubladen und Rollen
-* Höhe: 70 cm, Breite 37 cm ,Tiefe: 50 cm
-* VB: 25,- €
-
-***
-
 #### Kommode ####
 
 ![kommode](images/kommode.jpg)
@@ -549,17 +539,6 @@ Oderstr. 10247 F'hain.
 
 * Vileda Wischmopp
 * VB: 10,- €
-
-***
-
-#### DVDs ####
-
-![dvds](images/dvds.jpg)
-
-* 100 leere DVDs
-* Nashua Media Products
-* DVD+R 4.7 GB
-* VB: 5,- €
 
 ***
 
