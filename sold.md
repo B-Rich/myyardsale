@@ -231,3 +231,16 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 7,- €
 
 ***
+
+#### Holzschränkchen ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![holzschraenkchen](images/holzschraenkchen.jpg)
+
+* Links drei Schubladen, rechts zwei Ablagen
+* Links hinten wurde ein Teil herausgesägt
+* Höhe: 85 cm, Breite: 77 cm, Tiefe: 44 cm
+* VB: 15,- €
+
+***
