@@ -295,3 +295,25 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 30,- €
 
 ***
+
+#### USB Licht ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![usb_licht](images/usb_licht.jpg)
+
+* USB Licht von Kensington
+* VB: 3,- €
+
+***
+
+#### Besen und Handfeger ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![besen_handfeger](images/besen_handfeger.jpg)
+
+* Guter Zustand
+* VB: 5,- €
+
+***

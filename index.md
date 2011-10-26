@@ -396,15 +396,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### USB Licht ####
-
-![usb_licht](images/usb_licht.jpg)
-
-* USB Licht von Kensington
-* VB: 3,- €
-
-***
-
 #### USB Netlink ####
 
 ![usb_netlink](images/usb_netlink.jpg)
@@ -526,15 +517,6 @@ Oderstr. 10247 F'hain.
 
 * Zum an die Wand montieren
 * VB: 3,- €
-
-***
-
-#### Besen und Handfeger ####
-
-![besen_handfeger](images/besen_handfeger.jpg)
-
-* Guter Zustand
-* VB: 5,- €
 
 ***
 
