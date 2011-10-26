@@ -19,6 +19,7 @@ Oderstr. 10247 F'hain.
 * [RSS Atom Feed der Commits](https://github.com/esc/myyardsale/commits/master.atom)
 * Kurze URL: [http://krzz.de/1t](http://krzz.de/1t)
 * [Google Translate](http://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fhaenel.co%2Fyardsale%2F)
+* Blog Posts: [Julius Plenz](http://blog.plenz.com/2011-10/yardsale.html)
 * Proudly made with ``vim``,``git``, ``markdown``, ``make`` and ``imagemagick``
 
 ***
