@@ -282,3 +282,16 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 10,- €
 
 ***
+
+#### Bücherregal ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![buecherregal](images/buecherregal.jpg)
+
+* Bücherregal von IKEA
+* Mit vier Fächern
+* Höhe: 80 cm, Breite: 80 cm, Tiefe: 39 cm
+* VB: 30,- €
+
+***

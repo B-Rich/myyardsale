@@ -110,17 +110,6 @@ Oderstr. 10247 F'hain.
 ***
 
 
-#### Bücherregal ####
-
-![buecherregal](images/buecherregal.jpg)
-
-* Bücherregal von IKEA
-* Mit vier Fächern
-* Höhe: 80 cm, Breite: 80 cm, Tiefe: 39 cm
-* VB: 30,- €
-
-***
-
 #### Kommode ####
 
 ![kommode](images/kommode.jpg)
