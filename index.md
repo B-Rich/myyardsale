@@ -66,17 +66,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Toaster ####
-
-![toaster](images/toaster.jpg)
-
-* Hersteller: Cloer
-* Mit Stopknopf und Krümmellade
-* Fassungsvermögen: zwei Toasts auf einmal
-* VB: 7,- €
-
-***
-
 #### Wasserkocher ####
 
 ![wasserkocher](images/wasserkocher.jpg)
@@ -565,15 +554,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Staubsauger ####
-
-![staubsauger](images/staubsauger.jpg)
-
-* Hoover Studio 1500 W
-* VB: 7,- €
-
-***
-
 #### Wischmopp ####
 
 ![wischmopp](images/wischmopp.jpg)
@@ -678,15 +658,6 @@ Oderstr. 10247 F'hain.
 
 * Inklusive Halterung
 * VB: 15,- €
-
-***
-
-#### Kleine lampe ####
-
-![kleine_lampe](images/kleine_lampe.jpg)
-
-* Ideal fürs bad
-* VB: 2,- €
 
 ***
 

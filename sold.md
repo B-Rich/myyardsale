@@ -196,3 +196,38 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 35,-
 
 ***
+
+#### Staubsauger ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![staubsauger](images/staubsauger.jpg)
+
+* Hoover Studio 1500 W
+* VB: 7,- €
+
+***
+
+#### Kleine lampe ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![kleine_lampe](images/kleine_lampe.jpg)
+
+* Ideal fürs bad
+* VB: 2,- €
+
+***
+
+#### Toaster ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![toaster](images/toaster.jpg)
+
+* Hersteller: Cloer
+* Mit Stopknopf und Krümmellade
+* Fassungsvermögen: zwei Toasts auf einmal
+* VB: 7,- €
+
+***
