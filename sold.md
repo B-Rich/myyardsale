@@ -363,3 +363,38 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 10,- €
 
 ***
+
+#### Diverse Karten ####
+
+**SOLD Wed Oct 26 21:05:45 CEST 2011**
+
+![diverse_karten](images/diverse_karten.jpg)
+
+* Diverse Karten: Grafik, Netzwerk, WLAN, Firewire
+* Für Bastler
+* VB: 10,- €
+
+***
+
+#### Arbeitsspeicher  ####
+
+**SOLD Wed Oct 26 21:05:45 CEST 2011**
+
+![arbeitsspeicher](images/arbeitsspeicher.jpg)
+
+* Diverse Riegel Arbeitsspeicher
+* Für Bastler
+* VB: 3,- €
+
+***
+
+#### PC Leichen ####
+
+**SOLD Wed Oct 26 21:05:45 CEST 2011**
+
+![rechner](images/rechner.jpg)
+
+* Drei PC Leichen
+* Zu verschenken
+
+***

@@ -206,16 +206,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Diverse Karten ####
-
-![diverse_karten](images/diverse_karten.jpg)
-
-* Diverse Karten: Grafik, Netzwerk, WLAN, Firewire
-* Für Bastler
-* VB: 10,- €
-
-***
-
 #### Netzwerkkabel ####
 
 ![netzwerkkabel](images/netzwerkkabel.jpg)
@@ -223,16 +213,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Diverse Netzwerkkabel
 * Für Bastler
 * VB: 10,- €
-
-***
-
-#### Arbeitsspeicher  ####
-
-![arbeitsspeicher](images/arbeitsspeicher.jpg)
-
-* Diverse Riegel Arbeitsspeicher
-* Für Bastler
-* VB: 3,- €
 
 ***
 
@@ -559,14 +539,5 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Badezimmerspiegel
 * VB: 3,- €
-
-***
-
-#### PC Leichen ####
-
-![rechner](images/rechner.jpg)
-
-* Drei PC Leichen
-* Zu verschenken
 
 ***
