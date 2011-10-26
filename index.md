@@ -543,15 +543,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Zeitschaltuhren ####
-
-![Zeitschaltuhren](images/zeitschaltuhren.jpg)
-
-* Zwei Stück
-* VB: 4,- €
-
-***
-
 #### Ablage ####
 
 ![ablage](images/ablage.jpg)

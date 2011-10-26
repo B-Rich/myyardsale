@@ -329,3 +329,14 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 5,- €
 
 ***
+
+#### Zeitschaltuhren ####
+
+**SOLD Wed Oct 26 11:17:01 CEST 2011**
+
+![Zeitschaltuhren](images/zeitschaltuhren.jpg)
+
+* Zwei Stück
+* VB: 4,- €
+
+***
