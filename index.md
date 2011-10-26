@@ -49,7 +49,8 @@ Oderstr. 10247 F'hain.
 
 * Mülleimer aus Plastik
 * 2 Stück, einer rot, der andere Gelb
-* Ideal zur Mülltrennung
+* **SOLD der gelbe ist weg Wed Oct 26 08:51:48 CEST 2011**
+* Idea zur Mülltrennung
 * Je: 3,- €
 * Zusammen: 5,- €
 
@@ -163,16 +164,6 @@ Oderstr. 10247 F'hain.
 * Höhe: 75 cm
 * Inklusive Verlängerung: 38 cm
 * VB: 30,- €
-
-***
-
-#### Schuhregal ####
-
-![schuhregal](images/schuhregal.jpg)
-
-* Schuregal mit zwei Ablagen
-* Stark verschmutzt
-* VB: 5,- €
 
 ***
 

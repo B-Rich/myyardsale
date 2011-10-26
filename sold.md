@@ -317,3 +317,15 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 5,- €
 
 ***
+
+#### Schuhregal ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![schuhregal](images/schuhregal.jpg)
+
+* Schuregal mit zwei Ablagen
+* Stark verschmutzt
+* VB: 5,- €
+
+***
