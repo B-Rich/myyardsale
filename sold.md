@@ -398,3 +398,39 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * Zu verschenken
 
 ***
+
+#### Wäschekorb ####
+
+**SOLD Wed Oct 26 21:12:24 CEST 2011**
+
+![waeschekorb](images/waeschekorb.jpg)
+
+* Blauer Wäschekorb
+* Höhe: 60 cm, Breite: 45cm, Tiefe: 35 cm
+* VB: 5,- €
+
+***
+
+#### Regal ####
+
+**SOLD Wed Oct 26 21:12:24 CEST 2011**
+
+![regal](images/regal.jpg)
+
+* Offenes Regal
+* Höhe: 167 cm, Breite: 88 cm, Tiefe 33 cm
+* VB: 25,- €
+
+***
+
+#### Helles Schränkchen ####
+
+**SOLD Wed Oct 26 21:12:24 CEST 2011**
+
+![helles_schraenkchen](images/helles_schraenkchen.jpg)
+
+* Mit einer Schublade und Rollen
+* Höhe: 72 cm, Breite 37 cm ,Tiefe: 50 cm
+* VB: 20,- €
+
+***

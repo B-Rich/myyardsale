@@ -134,16 +134,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Helles Schränkchen ####
-
-![helles_schraenkchen](images/helles_schraenkchen.jpg)
-
-* Mit einer Schublade und Rollen
-* Höhe: 72 cm, Breite 37 cm ,Tiefe: 50 cm
-* VB: 20,- €
-
-***
-
 #### Ventilator ####
 
 ![ventilator](images/ventilator.jpg)
@@ -165,16 +155,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Höhe: 75 cm
 * Inklusive Verlängerung: 38 cm
 * VB: 30,- €
-
-***
-
-#### Regal ####
-
-![regal](images/regal.jpg)
-
-* Offenes Regal
-* Höhe: 167 cm, Breite: 88 cm, Tiefe 33 cm
-* VB: 25,- €
 
 ***
 
@@ -364,16 +344,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Netlink Kabel
 * VB: 3,- €
-
-***
-
-#### Wäschekorb ####
-
-![waeschekorb](images/waeschekorb.jpg)
-
-* Blauer Wäschekorb
-* Höhe: 60 cm, Breite: 45cm, Tiefe: 35 cm
-* VB: 5,- €
 
 ***
 
