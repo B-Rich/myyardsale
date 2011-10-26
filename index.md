@@ -462,17 +462,6 @@ Oderstr. 10247 F'hain.
 
 ***
 
-#### Fernseher ####
-
-![fernseher](images/fernseher.jpg)
-
-* Alter Röhrenfernseher von Philips
-* Spiegelbild kann variieren
-* Bilddiagonale: ca 52 cm
-* VB: 10,- €
-
-***
-
 #### Fernseh Tisch ####
 
 ![fernseh_tisch](images/fernseh_tisch.jpg)

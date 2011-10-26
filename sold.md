@@ -269,3 +269,16 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 5,- €
 
 ***
+
+#### Fernseher ####
+
+**SOLD Wed Oct 26 08:14:58 CEST 2011**
+
+![fernseher](images/fernseher.jpg)
+
+* Alter Röhrenfernseher von Philips
+* Spiegelbild kann variieren
+* Bilddiagonale: ca 52 cm
+* VB: 10,- €
+
+***
