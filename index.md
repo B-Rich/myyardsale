@@ -6,7 +6,7 @@ einem oder mehreren der Gegenstände interessiert? Schicke eine E-Mail an
 0176/66604935(wenn es sein muss).
 
 Die Sachen sind alle für Selbstabholer und befinden sich in der
-Oderstr. 10247 F'hain.
+[Oderstr. 22 10247 F'hain](http://krzz.de/1D)
 
 * Noch zu verkaufen/verschenken: WWWWWW
 * Bereits verkauft: ZZZZZZ  ([Verkaufte Gegenstände](sold.html))
