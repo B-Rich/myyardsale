@@ -352,3 +352,14 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB 25,- €
 
 ***
+
+#### Wischmopp ####
+
+**SOLD Wed Oct 26 11:52:43 CEST 2011**
+
+![wischmopp](images/wischmopp.jpg)
+
+* Vileda Wischmopp
+* VB: 10,- €
+
+***

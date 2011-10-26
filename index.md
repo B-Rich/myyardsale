@@ -484,15 +484,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Wischmopp ####
-
-![wischmopp](images/wischmopp.jpg)
-
-* Vileda Wischmopp
-* VB: 10,- €
-
-***
-
 #### Lampe ####
 
 ![lampe](images/lampe.jpg)
