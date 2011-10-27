@@ -434,3 +434,27 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 20,- €
 
 ***
+
+#### Netzwerkkarte ####
+
+**SOLD: Thu Oct 27 10:28:55 CEST 2011**
+
+![netzwerkkarte](images/netzwerkkarte.jpg)
+
+* PCI Gigabit Netzwerkkarte
+* VB: 5,- €
+
+***
+
+#### Wasserkessel ####
+
+**SOLD: Thu Oct 27 10:28:55 CEST 2011**
+
+![wasserkessel](images/wasserkessel.jpg)
+
+* Von WMF
+* Für Gas, Ceran, Induktion...
+* Wirklich schönes Stück
+* VB: 15,- €
+
+***

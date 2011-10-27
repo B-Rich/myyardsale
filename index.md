@@ -167,16 +167,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Netzwerkkarte ####
-
-![netzwerkkarte](images/netzwerkkarte.jpg)
-
-* PCI Gigabit Netzwerkkarte
-* VB: 5,- €
-
-***
-
-
 #### SATA-Karte ####
 
 ![satakarte](images/satakarte.jpg)
@@ -450,17 +440,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Satz Lampen
 * Eine einzelne und eine doppelte
 * VB: 5,- €
-
-***
-
-#### Wasserkessel ####
-
-![wasserkessel](images/wasserkessel.jpg)
-
-* Von WMF
-* Für Gas, Ceran, Induktion...
-* Wirklich schönes Stück
-* VB: 15,- €
 
 ***
 
