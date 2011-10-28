@@ -458,3 +458,16 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 15,- €
 
 ***
+
+#### Stabilere Stühle ####
+
+**Sold Fri Oct 28 09:45:00 CEST 2011**
+
+![stuehle](images/stuehle.jpg)
+
+* Stabile (nicht klappbare) Stühle
+* Höhe: ca. 45 cm
+* Je: 4,- €
+* Zusammen: 6,- €
+
+***
