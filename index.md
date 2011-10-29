@@ -64,7 +64,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Hersteller: Grosseg
 * Fassungsvermögen: 1L
 * VB: 3,- €
-
 ***
 
 #### Kleine Deckenleuchte ####
@@ -282,10 +281,12 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Audio/Video Kabel ####
 
+
 ![audio_video_kabel](images/audio_video_kabel.jpg)
 
 * Zwei Audio/Video Kabel für Fernseher(?)
-* VB: 6,- €
+* **Sold Sat Oct 29 12:58:10 CEST 2011 noch noch eins verfügbar**
+* VB: 3,- €
 
 ***
 
