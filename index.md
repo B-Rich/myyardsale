@@ -146,15 +146,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Audiokarte ####
-
-![audiokarte](images/audiokarte.jpg)
-
-* [PCI Audiokarte von M-Audio](http://www.m-audio.com/products/en_us/Audiophile2496.html)
-* VB: 35,- €
-
-***
-
 #### SATA-Karte ####
 
 ![satakarte](images/satakarte.jpg)

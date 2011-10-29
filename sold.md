@@ -470,3 +470,14 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 5,- €
 
 ***
+
+#### Audiokarte ####
+
+**SOLD Sat Oct 29 17:50:20 CEST 2011**
+
+![audiokarte](images/audiokarte.jpg)
+
+* [PCI Audiokarte von M-Audio](http://www.m-audio.com/products/en_us/Audiophile2496.html)
+* VB: 35,- €
+
+***
