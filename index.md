@@ -480,3 +480,13 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * VB: 3,- €
 
 ***
+
+#### PC Lüfter  ####
+
+![luefter](images/luefter.jpg)
+
+* Drei Lüfter von Papst
+* Hohe Umdrehungszahl
+* VB: 9,- €
+
+***

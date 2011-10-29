@@ -60,18 +60,6 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 
 ***
 
-#### PC Lüfter  ####
-
-**SOLD Mon Oct 24 18:11:01 CEST 2011**
-
-![luefter](images/luefter.jpg)
-
-* Drei Lüfter von Papst
-* Hohe Umdrehungszahl
-* VB: 9,- €
-
-***
-
 #### Logitech Funkmaus ####
 
 **SOLD: Mon Oct 24 19:02:21 CEST 2011**
