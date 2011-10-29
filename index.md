@@ -345,15 +345,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Kleiner Tisch ####
-
-![kleiner_tisch](images/kleiner_tisch.jpg)
-
-* Höhe: 45 cm, Breite 55 cm,
-* VB: 5,- €
-
-***
-
 #### Fernseh Tisch ####
 
 ![fernseh_tisch](images/fernseh_tisch.jpg)

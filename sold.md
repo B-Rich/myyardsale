@@ -459,3 +459,14 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * Zusammen: 6,- €
 
 ***
+
+#### Kleiner Tisch ####
+
+**SOLD Sat Oct 29 14:37:58 CEST 2011**
+
+![kleiner_tisch](images/kleiner_tisch.jpg)
+
+* Höhe: 45 cm, Breite 55 cm,
+* VB: 5,- €
+
+***
