@@ -481,3 +481,13 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * VB 5,- €
 
 ***
+
+#### IKEA Ablage ####
+
+![ikea_ablage](images/ikea_ablage.jpg)
+
+* Ablage von IKEA
+* 110 x 25 cm
+* VB: 3,- €
+
+***
