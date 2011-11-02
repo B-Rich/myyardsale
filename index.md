@@ -460,3 +460,13 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * VB: 9,- €
 
 ***
+
+#### CD Hüllen ####
+
+![cdhullen](images/cdhuellen.jpg)
+
+* Verschiedene CD Hüllen
+* Klein: 2,- €
+* Groß: 4,- €
+
+***
