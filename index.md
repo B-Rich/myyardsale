@@ -134,18 +134,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Tisch  ####
-
-![tisch](images/tisch.jpg)
-
-* Schwarzer, runder Tisch
-* Durchmesser: 120 cm
-* Höhe: 75 cm
-* Inklusive Verlängerung: 38 cm
-* VB: 30,- €
-
-***
-
 #### SATA-Karte ####
 
 ![satakarte](images/satakarte.jpg)

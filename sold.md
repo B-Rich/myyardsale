@@ -481,3 +481,17 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 35,- €
 
 ***
+
+#### Tisch  ####
+
+**SOLD Wed Nov  2 10:15:01 CET 2011**
+
+![tisch](images/tisch.jpg)
+
+* Schwarzer, runder Tisch
+* Durchmesser: 120 cm
+* Höhe: 75 cm
+* Inklusive Verlängerung: 38 cm
+* VB: 30,- €
+
+***
