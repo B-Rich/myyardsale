@@ -470,3 +470,14 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Groß: 4,- €
 
 ***
+
+#### Glas Ablage  ####
+
+![glas_ablage](images/glas_ablage.jpg)
+
+* Glas Ablage
+* 60 x 12 cm
+* Inklusive Halterungen
+* VB 5,- €
+
+***
