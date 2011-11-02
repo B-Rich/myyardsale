@@ -29,7 +29,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![klobrille](images/klobrille.jpg)
 
 * Formschöne Klobrille mit Pinguinen
-* VB: 15,- €
+* VB: 10,- €
 
 ***
 
@@ -53,7 +53,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Hersteller: Petra
 * Fassungsvermögen ca. 10 Tassen
 * Mit eingebautem Filter
-* VB: 10,- €
+* VB: 7,- €
 
 ***
 
@@ -73,7 +73,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Kleine Deckenleuchte von IKEA
 * Mit drei Birnen inklusive
 * 2 Stück verfügbar
-* VB: 5,- € Stück
+* VB: 3,- € Stück
 
 ***
 
@@ -83,7 +83,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Große Deckenleuchte von IKEA
 * Mit vier Birnen inklusive
-* VB: 7,- €
+* VB: 5,- €
 
 ***
 
@@ -95,7 +95,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Entspannende Pinguinmotive
 * Maße: 90x90
 * Duschvorhang deckt leider nur ein Drittel ab
-* VB: 15,- €
+* VB: 10,- €
 
 ***
 
@@ -129,7 +129,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Durchmesser: 27 cm
 * Zwei Geschwindigkeiten
 * Mit Feststellknopf
-* VB: 25,- €
+* VB: 15,- €
 
 
 ***
@@ -139,7 +139,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![satakarte](images/satakarte.jpg)
 
 * 4-Port PCI SATA Karte von Promise
-* VB: 25,- €
+* VB: 20,- €
 
 ***
 
@@ -149,7 +149,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Diverse Netzwerkkabel
 * Für Bastler
-* VB: 10,- €
+* VB: 7,- €
 
 ***
 
@@ -159,7 +159,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * PCMCIA Netzwerkkarte
 * Sehr alt und hat Wackelkontakt
-* VB: 1,- €
+* Zu verschenken
 
 ***
 
@@ -168,7 +168,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![pcmcia_usb](images/pcmcia_usb.jpg)
 
 * PCMCIA USB Hub mit 4 Ports
-* VB: 4,- €
+* VB: 3,- €
 
 ***
 
@@ -200,7 +200,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Diverse SATA Kabel
 * Für Bastler
-* VB: 10,- €
+* VB: 7,- €
 
 ***
 
@@ -211,7 +211,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Laptop Tasche von Asus mit vielen Fächern
 * Für 15 Zoll Notebooks
 * Nie benutzt, wie neu!
-* VB: 15,- €
+* VB: 10,- €
 
 ***
 
@@ -223,7 +223,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Adidas Sneaker Superstar
 * Größe: 44 2/3
 * Ungetragen, sind mir zu groß
-* VB: 25,- €
+* VB: 20,- €
 
 ***
 
@@ -234,7 +234,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Fast komplette Serie Eins, inkl vielen Dubletten
 * Sehr guter Zustand
 * Für Sammler
-* VB: 30,- €
+* VB: 25,- €
 
 ***
 
@@ -254,7 +254,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Zwei universal Netzteile
 * Leider nur ein Satz Stecker
-* VB: 20,- €
+* VB: 10,- €
 
 ***
 
@@ -274,7 +274,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![led_mousepad](images/led_mousepad.jpg)
 
 * Blau leuchtendes LED Mousepad mit 4-Port USB Hub
-* VB: 5,- €
+* VB: 3,- €
 
 ***
 
@@ -283,7 +283,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![kaltgeraetekabel](images/kaltgeraetekabel.jpg)
 
 * Diverse Kaltgerätekabel
-* VB: 10,- €
+* VB: 7,- €
 
 ***
 
@@ -293,7 +293,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Telekom Volcano
 * Schnurgebundenes Telefon
-* VB: 5,- €
+* VB: 3,- €
 
 ***
 
@@ -302,7 +302,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![usb_netlink](images/usb_netlink.jpg)
 
 * Netlink Kabel
-* VB: 3,- €
+* VB: 1,- €
 
 ***
 
@@ -341,7 +341,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Zwei verfügbar
 * Leider mit Kratzern und Abnutzungsspuren
 * Höhe: 75 cm, Breite: 140 cm, Tiefe: 75 cm
-* VB: 30,- € (Stück)
+* VB: 20,- € (Stück)
 
 ***
 
@@ -352,7 +352,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Die Matratze ist etwas härter, ist ja auch ein Futon
 * Hervoragendes Schlafgefühl
 * Höhe: 30 cm, Länge: 215 cm, Breite: 115 cm
-* VB: 75,- €
+* VB: 50,- €
 
 ***
 
@@ -399,7 +399,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Satz Lampen
 * Eine einzelne und eine doppelte
-* VB: 5,- €
+* VB: 3,- €
 
 ***
 
@@ -429,7 +429,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Diverse PC Schrauben, Hitzepaste, BIOS Batterien, Motherboard-Mounter, Jumper etc..
 * Gut sortiert
 * Optimal für Bastler
-* VB: 15,- €
+* VB: 10,- €
 
 ***
 
@@ -438,7 +438,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ![zwei_glas_ablagen](images/zwei_glas_ablagen.jpg)
 
 * Inklusive Halterung
-* VB: 15,- €
+* VB: 10,- €
 
 ***
 
@@ -457,7 +457,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 * Drei Lüfter von Papst
 * Hohe Umdrehungszahl
-* VB: 9,- €
+* VB: 6,- €
 
 ***
 
