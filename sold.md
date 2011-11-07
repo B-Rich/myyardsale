@@ -495,3 +495,14 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 30,- €
 
 ***
+
+#### Wasserkocher ####
+
+**SOLD Mon Nov  7 16:30:11 CET 2011**
+
+![wasserkocher](images/wasserkocher.jpg)
+
+* Hersteller: Grosseg
+* Fassungsvermögen: 1L
+* VB: 3,- €
+***

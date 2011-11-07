@@ -57,15 +57,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Wasserkocher ####
-
-![wasserkocher](images/wasserkocher.jpg)
-
-* Hersteller: Grosseg
-* Fassungsvermögen: 1L
-* VB: 3,- €
-***
-
 #### Kleine Deckenleuchte ####
 
 ![kleine_deckenleuchte](images/kleine_deckenleuchte.jpg)
