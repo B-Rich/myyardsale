@@ -361,7 +361,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * [Case von ZOMO](http://www.zomo.de/en/Products/Cases/Equipment-Cases/Set-Cases/Zomo-Set-800-Flightcase-for-2x-CDJ-800-1x-DJM-600-800-700.html)
 * Ca. 4 Jahre alt, aber in sehr gutem Zustand, nie auf Partys gewesen, nur bei mir zu Hause rumgestanden. Drum verkaufe ich sie ja.
 * Inklusive diversen Kabeln
-* VB: 1600,- €
+* VB: 1300,- €
 
 ***
 
