@@ -536,3 +536,25 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 [kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925220)
 
 ***
+
+#### DJ Setup ####
+
+**SOLD Tue Nov  8 16:10:43 CET 2011**
+
+![decks](images/decks.jpg)
+![cd1](images/cd1.jpg)
+![mixer](images/mixer.jpg)
+![cd2](images/cd2.jpg)
+![case](images/case.jpg)
+
+* Mixer und zwei CD-Player in einem Flightcase
+* [DJM 800](http://www.pioneer.eu/uk/products/44/74/461/DJM-800/index.html)
+* [CDJ 1000 MK3](http://www.pioneer.eu/eur/products/archive/CDJ-1000 MK3/index.html)
+* [Case von ZOMO](http://www.zomo.de/en/Products/Cases/Equipment-Cases/Set-Cases/Zomo-Set-800-Flightcase-for-2x-CDJ-800-1x-DJM-600-800-700.html)
+* Ca. 4 Jahre alt, aber in sehr gutem Zustand, nie auf Partys gewesen, nur bei mir zu Hause rumgestanden. Drum verkaufe ich sie ja.
+* Inklusive diversen Kabeln
+* VB: 1300,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42927974)
+
+***
