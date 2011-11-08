@@ -98,7 +98,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * IKEA Kommode
 * Mit drei Schubladen
 * Höhe: 100 cm, Breite: 80 cm, Tiefe: 45 cm
-* VB: 20,- €
+* VB: 15,- €
 
 ***
 
@@ -109,7 +109,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * IKEA Hänge-Schrank für Mäntel und Jacken
 * Mit Zwei Türen
 * Höhe: 180 cm, Breite: 80 cm, Tiefe: 50 cm
-* VB: 20,- €
+* VB: 15,- €
 
 ***
 
