@@ -90,33 +90,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-
-#### Kommode ####
-
-![kommode](images/kommode.jpg)
-
-* IKEA Kommode
-* Mit drei Schubladen
-* Höhe: 100 cm, Breite: 80 cm, Tiefe: 45 cm
-* VB: 15,- €
-
-[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925632)
-
-***
-
-#### Schrank ####
-
-![schrank](images/schrank.jpg)
-
-* IKEA Hänge-Schrank für Mäntel und Jacken
-* Mit Zwei Türen
-* Höhe: 180 cm, Breite: 80 cm, Tiefe: 50 cm
-* VB: 15,- €
-
-[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925220)
-
-***
-
 #### Ventilator ####
 
 ![ventilator](images/ventilator.jpg)

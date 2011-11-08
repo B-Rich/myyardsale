@@ -506,3 +506,33 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * Fassungsvermögen: 1L
 * VB: 3,- €
 ***
+
+#### Kommode ####
+
+![kommode](images/kommode.jpg)
+
+**SOLD Tue Nov  8 16:10:43 CET 2011**
+
+* IKEA Kommode
+* Mit drei Schubladen
+* Höhe: 100 cm, Breite: 80 cm, Tiefe: 45 cm
+* VB: 15,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925632)
+
+***
+
+#### Schrank ####
+
+**SOLD Tue Nov  8 16:10:43 CET 2011**
+
+![schrank](images/schrank.jpg)
+
+* IKEA Hänge-Schrank für Mäntel und Jacken
+* Mit Zwei Türen
+* Höhe: 180 cm, Breite: 80 cm, Tiefe: 50 cm
+* VB: 15,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925220)
+
+***
