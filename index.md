@@ -100,6 +100,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Höhe: 100 cm, Breite: 80 cm, Tiefe: 45 cm
 * VB: 15,- €
 
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925632)
+
 ***
 
 #### Schrank ####
@@ -110,6 +112,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Mit Zwei Türen
 * Höhe: 180 cm, Breite: 80 cm, Tiefe: 50 cm
 * VB: 15,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925220)
 
 ***
 
@@ -204,6 +208,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Nie benutzt, wie neu!
 * VB: 10,- €
 
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42925887)
+
 ***
 
 
@@ -216,6 +222,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Ungetragen, sind mir zu groß
 * VB: 20,- €
 
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42926103)
+
 ***
 
 #### Naruto Sammelkartenspiel ####
@@ -226,6 +234,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Sehr guter Zustand
 * Für Sammler
 * VB: 25,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42926992)
 
 ***
 
@@ -334,6 +344,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Höhe: 75 cm, Breite: 140 cm, Tiefe: 75 cm
 * VB: 20,- € (Stück)
 
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42927349)
+
 ***
 
 #### Bett (Futon) ####
@@ -362,6 +374,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 * Ca. 4 Jahre alt, aber in sehr gutem Zustand, nie auf Partys gewesen, nur bei mir zu Hause rumgestanden. Drum verkaufe ich sie ja.
 * Inklusive diversen Kabeln
 * VB: 1300,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42927974)
 
 ***
 
