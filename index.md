@@ -261,16 +261,6 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Telefon ####
-
-![telefon](images/telefon.jpg)
-
-* Telekom Volcano
-* Schnurgebundenes Telefon
-* VB: 3,- €
-
-***
-
 #### USB Netlink ####
 
 ![usb_netlink](images/usb_netlink.jpg)

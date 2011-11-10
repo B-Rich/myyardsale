@@ -547,3 +547,15 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 [kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42927974)
 
 ***
+
+#### Telefon ####
+
+**SOLD Thu Nov 10 10:08:04 CET 2011**
+
+![telefon](images/telefon.jpg)
+
+* Telekom Volcano
+* Schnurgebundenes Telefon
+* VB: 3,- €
+
+***
