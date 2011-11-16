@@ -559,3 +559,18 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 * VB: 3,- €
 
 ***
+
+#### Bett (Futon) ####
+
+![bett](images/bett.jpg)
+
+**SOLD Wed Nov 16 19:28:56 CET 2011**
+
+* Die Matratze ist etwas härter, ist ja auch ein Futon
+* Hervoragendes Schlafgefühl
+* Höhe: 30 cm, Länge: 215 cm, Breite: 115 cm
+* VB: 50,- €
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=43672169)
+
+***
