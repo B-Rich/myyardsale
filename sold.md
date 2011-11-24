@@ -574,3 +574,19 @@ Hier sind alle verkauften Gegenstände aufgelistet.
 [kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=43672169)
 
 ***
+
+#### Schreibtisch  ####
+
+**SOLD Thu Nov 24 16:57:10 CET 2011**
+
+![schwarzer_tisch](images/schwarzer_tisch.jpg)
+
+* Schwarzer Schreibtisch von IKEA
+* Zwei verfügbar
+* Leider mit Kratzern und Abnutzungsspuren
+* Höhe: 75 cm, Breite: 140 cm, Tiefe: 75 cm
+* VB: 20,- € (Stück)
+
+[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42927349)
+
+***

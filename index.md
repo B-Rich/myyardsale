@@ -1,5 +1,9 @@
 # Yardsale™ by Valentin Haenel #
 
+**YARDSALE CLOSED Thu Nov 24 16:59:37 CET 2011**
+
+**Hier hatte ich mal meine Sachen in einem sog. Yardsale verkauft**
+
 Ich verlasse Berlin Ende November. Hier verkaufe ich mein Hab und Gut.  Du bist an
 einem oder mehreren der Gegenstände interessiert? Schicke eine E-Mail an
 [yardsale@haenel.co](mailto:yardsale@haenel.co)(bevorzugt) oder ruf an:
@@ -26,6 +30,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Pinguin Klobrille ####
 
+**KEEPING**
+
 ![klobrille](images/klobrille.jpg)
 
 * Formschöne Klobrille mit Pinguinen
@@ -34,6 +40,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Mülleimer ####
+
+**KEEPING**
 
 ![muelleimer](images/muelleimer.jpg)
 
@@ -48,6 +56,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Kaffeemaschine ####
 
+**GIVEN AWAY**
+
 ![kaffeemaschine](images/kaffeemaschine.jpg)
 
 * Hersteller: Petra
@@ -58,6 +68,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Kleine Deckenleuchte ####
+
+**GIVEN AWAY**
 
 ![kleine_deckenleuchte](images/kleine_deckenleuchte.jpg)
 
@@ -70,6 +82,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Große Deckenleuchte ####
 
+**GIVEN AWAY**
+
 ![grosse_deckenleuchte](images/grosse_deckenleuchte.jpg)
 
 * Große Deckenleuchte von IKEA
@@ -79,6 +93,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Duschvorhang ####
+
+**KEEPING**
 
 ![duschvorhang](images/duschvorhang.jpg)
 
@@ -92,6 +108,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Ventilator ####
 
+**GIVEN AWAY**
+
 ![ventilator](images/ventilator.jpg)
 
 * Durchmesser: 27 cm
@@ -104,6 +122,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### SATA-Karte ####
 
+**KEEPING**
+
 ![satakarte](images/satakarte.jpg)
 
 * 4-Port PCI SATA Karte von Promise
@@ -112,6 +132,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Netzwerkkabel ####
+
+**KEEPING**
 
 ![netzwerkkabel](images/netzwerkkabel.jpg)
 
@@ -123,6 +145,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Netzwerkkarte für Notebooks ####
 
+**KEEPING**
+
 ![pcmcia_netzwerk](images/pcmcia_netzwerk.jpg)
 
 * PCMCIA Netzwerkkarte
@@ -132,6 +156,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### PCMCIA USB Hub  ####
+
+**KEEPING**
 
 ![pcmcia_usb](images/pcmcia_usb.jpg)
 
@@ -143,6 +169,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Reste einer Kabelsammlung ####
 
+**KEEPING**
+
 ![kabel_sammlung_reste](images/kabel_sammlung_reste.jpg)
 
 * Reste meiner Kabelsammlung
@@ -152,6 +180,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### USB Kabel ####
+
+**KEEPING**
 
 ![usb_kabel](images/usb_kabel.jpg)
 
@@ -164,6 +194,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### SATA Kabel ####
 
+**KEEPING**
+
 ![sata_kabel](images/sata_kabel.jpg)
 
 * Diverse SATA Kabel
@@ -173,6 +205,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Laptop Tasche ####
+
+**KEEPING**
 
 ![laptop_tasche](images/laptop_tasche.jpg)
 
@@ -201,6 +235,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Naruto Sammelkartenspiel ####
 
+**KEEPING**
+
 ![naruto_karten](images/naruto_karten.jpg)
 
 * Fast komplette Serie Eins, inkl vielen Dubletten
@@ -214,6 +250,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Netzteile ####
 
+**KEEPING**
+
 ![netzteile](images/netzteile.jpg)
 
 * Diverse Netzteile, auch Ausländisch
@@ -223,6 +261,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Universal Netzteile ####
+
+**KEEPING**
 
 ![universal_netzteile](images/universal_netzteile.jpg)
 
@@ -234,6 +274,7 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Audio/Video Kabel ####
 
+**KEEPING**
 
 ![audio_video_kabel](images/audio_video_kabel.jpg)
 
@@ -245,6 +286,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### LED Mousepad ####
 
+**KEEPING**
+
 ![led_mousepad](images/led_mousepad.jpg)
 
 * Blau leuchtendes LED Mousepad mit 4-Port USB Hub
@@ -253,6 +296,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Kaltgerätekabel ####
+
+**KEEPING**
 
 ![kaltgeraetekabel](images/kaltgeraetekabel.jpg)
 
@@ -263,6 +308,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### USB Netlink ####
 
+**KEEPING**
+
 ![usb_netlink](images/usb_netlink.jpg)
 
 * Netlink Kabel
@@ -271,6 +318,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### CD/DVD Drive Enclosure ####
+
+**THROWEN OUT**
 
 ![enclosure](images/enclosure.jpg)
 
@@ -281,6 +330,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Wäschewanne ####
 
+**KEEPING**
+
 ![wanne](images/wanne.jpg)
 
 * Wäschewanne
@@ -290,6 +341,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Fernseh Tisch ####
 
+**GIVEN AWAY**
+
 ![fernseh_tisch](images/fernseh_tisch.jpg)
 
 * Tisch mit Rollen, ideal für Fernseher oder so
@@ -297,21 +350,10 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 ***
 
-#### Schreibtisch  ####
-
-![schwarzer_tisch](images/schwarzer_tisch.jpg)
-
-* Schwarzer Schreibtisch von IKEA
-* Zwei verfügbar
-* Leider mit Kratzern und Abnutzungsspuren
-* Höhe: 75 cm, Breite: 140 cm, Tiefe: 75 cm
-* VB: 20,- € (Stück)
-
-[kijiji](http://kleinanzeigen.ebay.de/anzeigen/m-meine-anzeige.html?adId=42927349)
-
-***
 
 #### Chefsessel ####
+
+**GIVEN AWAY**
 
 ![chefsessel](images/chefsessel.jpg)
 
@@ -323,6 +365,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Lampe ####
 
+**KEEPING**
+
 ![lampe](images/lampe.jpg)
 
 * Zum an die Wand montieren
@@ -331,6 +375,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Lampen  ####
+
+**KEEPING**
 
 ![lampen](images/lampen.jpg)
 
@@ -342,6 +388,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Fußmatte ####
 
+**KEEPING**
+
 ![fussmatte](images/fussmatte.jpg)
 
 * Abtreter/Fußmatte
@@ -352,6 +400,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Ablage ####
 
+**THROWEN OUT**
+
 ![ablage](images/ablage.jpg)
 
 * In brauner Optik
@@ -360,6 +410,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### PC Schrauben etc. ####
+
+**KEEPING**
 
 ![pc_schrauben](images/pc_schrauben.jpg)
 
@@ -372,6 +424,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Zwei Glasablagen ####
 
+**THROWEN OUT**
+
 ![zwei_glas_ablagen](images/zwei_glas_ablagen.jpg)
 
 * Inklusive Halterung
@@ -381,6 +435,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### Spiegel ####
 
+**THROWEN OUT**
+
 ![spiegel](images/spiegel.jpg)
 
 * Badezimmerspiegel
@@ -389,6 +445,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### PC Lüfter  ####
+
+**KEEPING**
 
 ![luefter](images/luefter.jpg)
 
@@ -400,6 +458,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### CD Hüllen ####
 
+**GIVEN AWAY**
+
 ![cdhullen](images/cdhuellen.jpg)
 
 * Verschiedene CD Hüllen
@@ -409,6 +469,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Glas Ablage  ####
+
+**THROWEN OUT**
 
 ![glas_ablage](images/glas_ablage.jpg)
 
@@ -421,6 +483,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 
 #### IKEA Ablage ####
 
+**THROWEN OUT**
+
 ![ikea_ablage](images/ikea_ablage.jpg)
 
 * Ablage von IKEA
@@ -430,6 +494,8 @@ Die Sachen sind alle für Selbstabholer und befinden sich in der
 ***
 
 #### Wasserkocher ####
+
+**GIVEN AWAY**
 
 ![wasserkocher](images/wasserkocher.jpg)
 
